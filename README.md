@@ -17,8 +17,9 @@ FINALIZADO
 + gson-2.10.1 Ver enlace: https://mvnrepository.com/artifact/com.google.code.gson/gson
 + Api del sitio: https://v6.exchangerate-api.com
 ## TECNOLOGIA UTILIZADA Y PROGRAMA 
-![image](https://github.com/user-attachments/assets/5d1c5ec6-775a-41e9-bedb-3123220fcb95)
-![image](https://github.com/user-attachments/assets/fc7cb757-df07-4b7f-ac5f-9104dc7116a9)
++![image](https://github.com/user-attachments/assets/f20138fe-32f8-4fcc-8459-d558e9a66195)
+
++![image](https://github.com/user-attachments/assets/ab292930-aa6b-4727-9a4b-67da835febfb)
 ## NOTA
 Json se tiene que descargar, y cargar a la estructura del proyecto, ya que si no se realiza puede suceder que tire fallos al momento de correrlo, en lo personal lo había olvidado, por ende me mostro errores, que me llevo varios días entender como hacerlo.
 ## SOBRE MÍ
