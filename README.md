@@ -17,9 +17,7 @@ FINALIZADO
 + gson-2.10.1 Ver enlace: https://mvnrepository.com/artifact/com.google.code.gson/gson
 + Api del sitio: https://v6.exchangerate-api.com
 ## TECNOLOGIA UTILIZADA Y PROGRAMA 
-+ El lenguaje utilizado es [JAVA] (https://www.java.com/es/)
-+ El promaga utilizado para facilitar el uso del codigo fue [INTELLIJ] (https://www.jetbrains.com/idea/)
-## NOTA
-Json se tiene que descargar, y cargar a la estructura del proyecto, ya que si no se realiza puede suceder que tire fallos al momento de correrlo, en lo personal lo había olvidado, por ende me mostro errores, que me llevo varios días entender como hacerlo.
++ El lenguaje utilizado es JAVA: https://www.java.com/es/
++ El promaga utilizado para facilitar el uso del codigo fue INTELLIJ: https://www.jetbrains.com/idea/
 ## SOBRE MÍ
 https://www.linkedin.com/in/mart%C3%ADn-con-xinico/
