@@ -21,9 +21,9 @@ FINALIZADO
 + El promaga utilizado para facilitar el uso del codigo fue INTELLIJ: https://www.jetbrains.com/idea/
 ## NOTA
 + Para poder realizar el uso de ExchangeRate-API, previamente se tiene que realizar un registro donde se proporcionara una clave para el usuario.
-+ https://app.exchangerate-api.com/
+ https://app.exchangerate-api.com/
 + A su vez se tiene que agregar a la estructura del proyecto el archivo gson.
-+ https://mvnrepository.com/artifact/com.google.code.gson/gson
+ https://mvnrepository.com/artifact/com.google.code.gson/gson
 
 ## SOBRE MÍ
 https://www.linkedin.com/in/mart%C3%ADn-con-xinico/
