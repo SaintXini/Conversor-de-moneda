@@ -27,3 +27,6 @@ FINALIZADO
 
 ## SOBRE MÍ
 https://www.linkedin.com/in/mart%C3%ADn-con-xinico/
+
+## CONTRIBUCIONES
+Si tienes ideas adicionales o mejoras, no dudes en contactarme. La creatividad es esencial para el desarrollo de software.
